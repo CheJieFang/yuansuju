@@ -1,0 +1,18 @@
+.searchBox{
+    with:375px;
+    height:25px;
+    background: #fff;
+    padding: 10px;
+    .content{
+        display:block;
+        with:375px;
+        height: 31px;
+        line-height: 31px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding-left: 10px;
+        font-size: 14px;
+        color: #ddd;
+    }
+    
+}
